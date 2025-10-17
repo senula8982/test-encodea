@@ -1,0 +1,4 @@
+# config.txt
+API_KEY=12345-FAKE-SECRET-ABCDE
+const foo = "AKIA1234567890TEST"  # ✅ matches regex
+WEBHOOK_URL = "https://example.com/api/webhook/test"
